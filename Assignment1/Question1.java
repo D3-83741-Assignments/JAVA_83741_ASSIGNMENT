@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Question1 {
-
+public class Question1 
+{
 	public static void main(String[] args) {
 		
 		try {
@@ -15,10 +15,9 @@ public class Question1 {
 		catch (Exception e ){
 			System.out.println(" Error Enter the double values");
 		}
-		
 	}
-
 }
+
 
 
 
